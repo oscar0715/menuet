@@ -1,5 +1,6 @@
 ---
 title: CMU 15650 - RNA Folding
+mathjax: true 
 tags:
   - Algorithm
 categories:

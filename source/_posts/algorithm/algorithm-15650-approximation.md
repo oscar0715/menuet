@@ -1,5 +1,6 @@
 ---
 title: CMU 15650 - Approximation Algorithms
+mathjax: true 
 tags:
   - Algorithm
 categories:

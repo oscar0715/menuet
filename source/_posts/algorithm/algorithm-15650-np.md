@@ -1,5 +1,6 @@
 ---
 title: CMU 15650 - NP Problems
+mathjax: true 
 tags:
   - Algorithm
 categories:

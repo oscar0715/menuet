@@ -1,5 +1,6 @@
 ---
 title: CMU 15650 - Segmented Least Squares
+mathjax: true 
 tags:
   - Algorithm
 categories:

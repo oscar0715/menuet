@@ -1,5 +1,6 @@
 ---
 title: CMU 15650 - Graph Traversals
+mathjax: true 
 tags:
   - Algorithm
 categories:

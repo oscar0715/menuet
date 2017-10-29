@@ -1,5 +1,6 @@
 ---
 title: CMU 15650 - Image Segmentation
+mathjax: true 
 tags:
   - Algorithm
 categories:

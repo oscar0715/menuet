@@ -1,5 +1,6 @@
 ---
 title: CMU 15650 - Bipartite Matching
+mathjax: true 
 tags:
   - Algorithm
 categories:

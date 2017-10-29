@@ -1,5 +1,6 @@
 ---
 title: The Algorithm Design Manual
+mathjax: true 
 tags:
   - Algorithm
 categories:

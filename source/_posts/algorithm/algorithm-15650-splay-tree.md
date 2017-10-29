@@ -1,5 +1,6 @@
 ---
 title: CMU 15650 - Splay Tree
+mathjax: true 
 tags:
   - Algorithm
 categories:

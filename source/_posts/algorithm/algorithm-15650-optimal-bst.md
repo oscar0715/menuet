@@ -1,5 +1,6 @@
 ---
 title: CMU 15650 - Optimal Binary Search Trees
+mathjax: true 
 tags:
   - Algorithm
 categories:

@@ -1,5 +1,6 @@
 ---
 title: CMU 15650 - Matrix Chain Multiplication
+mathjax: true 
 tags:
   - Algorithm
 categories:

@@ -1,5 +1,6 @@
 ---
 title: CMU 15650 - A *
+mathjax: true 
 tags:
   - Algorithm
 categories:

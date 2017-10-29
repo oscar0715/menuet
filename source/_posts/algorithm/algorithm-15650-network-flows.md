@@ -1,5 +1,6 @@
 ---
 title: CMU 15650 - Network Flows
+mathjax: true 
 tags:
   - Algorithm
 categories:

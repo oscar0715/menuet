@@ -1,5 +1,6 @@
 ---
 title: CMU 15650 - Sequence Alignment
+mathjax: true 
 tags:
   - Algorithm
 categories:

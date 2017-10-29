@@ -1,5 +1,6 @@
 ---
 title: CMU 15650 - Dijkstra
+mathjax: true 
 tags:
   - Algorithm
 categories:

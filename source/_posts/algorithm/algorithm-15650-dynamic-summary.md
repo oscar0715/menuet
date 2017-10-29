@@ -1,5 +1,6 @@
 ---
 title: CMU 15650 - Dynamic Progranmming Summary
+mathjax: true 
 tags:
   - Algorithm
 categories:

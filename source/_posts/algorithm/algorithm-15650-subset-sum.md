@@ -1,5 +1,6 @@
 ---
 title: CMU 15650 - Subset sum
+mathjax: true 
 tags:
   - Algorithm
 categories:
