@@ -520,10 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "source/_posts/java/Java8实战【Java系列笔记】.md",
+			"file": "source/_posts/technology/general-development/Head-First-Design-Pattern.md",
 			"settings":
 			{
-				"buffer_size": 179,
+				"buffer_size": 20478,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -585,9 +585,13 @@
 	"command_palette":
 	{
 		"height": 299.0,
-		"last_filter": "livere",
+		"last_filter": "reload",
 		"selected_items":
 		[
+			[
+				"reload",
+				"LiveReload: Enable/disable plug-ins"
+			],
 			[
 				"livere",
 				"LiveReload: Enable/disable plug-ins"
@@ -713,21 +717,52 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/oscar/Documents/menuet",
-		"/Users/oscar/Documents/menuet/source",
-		"/Users/oscar/Documents/menuet/source/_posts",
-		"/Users/oscar/Documents/menuet/source/_posts/java"
+		"/Users/oscar/Documents/menuet"
 	],
 	"file_history":
 	[
+		"/Users/oscar/Documents/menuet/source/_posts/technology/java/web-xml-in-a-Web-Project.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/spiritualhome/silent-majority.md",
+		"/Users/oscar/Documents/menuet/source/algorithm/index.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/书摘-徐贲-人以什么理由来记忆.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/spiritualhome/沉默的大多数.md",
+		"/Users/oscar/Documents/menuet/_config.yml",
+		"/Users/oscar/Documents/menuet/themes/next/_config.yml",
+		"/Users/oscar/Documents/menuet/source/about/index.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/movie/笔记-纪录片-河西走廊.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/书摘-牧羊少年的奇幻之旅.md",
+		"/Users/oscar/Documents/menuet/source/_posts/technology/webapplication/codecademy_jquery.md",
+		"/Users/oscar/Documents/menuet/source/art/index.md",
+		"/Users/oscar/Documents/menuet/source/technology/index.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/书摘-王小波-寻找无双.md",
+		"/Users/oscar/Documents/menuet/source/_posts/algorithm/recommendation/collaboration-filtering.md",
+		"/Users/oscar/Downloads/【btrenren.com】三块广告牌.Three.Billboards.Outside.Ebbing.Missouri.2017.BD1080P.x264.中英双字幕.eng.chs.mp4.torrent",
+		"/Users/oscar/Documents/menuet/source/_posts/art/diary/步履不停/【随笔】一路逆风.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/diary/【随笔目录】我的精神家园.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/diary/步履不停/【随笔】步履不停.md",
+		"/Users/oscar/Documents/menuet/source/_posts/technology/general-development/Head-First-Design-Pattern.md",
+		"/Users/oscar/Documents/menuet/source/_posts/general-development/Head-First-Design-Pattern.md",
+		"/Users/oscar/Documents/menuet/source/_posts/webapplication/codecademy_js.md",
+		"/Users/oscar/Documents/menuet/source/_posts/webapplication/introduction_to_CSS.md",
+		"/Users/oscar/Documents/menuet/source/_posts/webapplication/introduction_to_html5.md",
+		"/Users/oscar/Documents/menuet/source/_posts/webapplication/materialize-css.md",
+		"/Users/oscar/Documents/menuet/source/_posts/webapplication/codecademy_jquery.md",
+		"/Users/oscar/Documents/menuet/source/_posts/design/设计素材慢慢累积.md",
+		"/Users/oscar/Documents/menuet/source/_posts/design/Design-Code-C2.md",
+		"/Users/oscar/Documents/menuet/source/_posts/csapp/深入理解计算机系统-15213-CH2.md",
+		"/Users/oscar/Documents/menuet/source/_posts/design/Design-Code-C1.md",
+		"/Users/oscar/Documents/menuet/source/_posts/design/HumanExperienceInDesign.md",
+		"/Users/oscar/Documents/menuet/source/_posts/design/Infographics.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/书摘-原研哉-设计中的设计.md",
+		"/Users/oscar/Documents/menuet/source/art/1. 所有项目和日常需求都正常上线，并且在发布前，接口都能稳定（开周会的时候，我的需求都不会是风险高",
+		"/Users/oscar/Documents/menuet/source/_posts/general-development/mastering-regex.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/My-Book-List.md",
+		"/Users/oscar/Documents/menuet/source/_posts/java/Java8实战【Java系列笔记】.md",
 		"/Users/oscar/Documents/menuet/source/_posts/java/Java编程思想【Java系列笔记】.md",
 		"/Users/oscar/Documents/menuet/source/_posts/java/Java位运算基础【Java系列笔记】.md",
-		"/Users/oscar/Documents/menuet/source/_posts/art/My-Book-List.md",
 		"/Users/oscar/Documents/menuet/source/_posts/java/Java-日志系统.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/书评-吴晓波-腾讯传.md",
-		"/Users/oscar/Documents/menuet/source/art/index.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/书摘-王小波-寻找无双.md",
-		"/Users/oscar/Documents/menuet/themes/next/_config.yml",
 		"/Users/oscar/Documents/menuet/source/_posts/diary/步履不停/【随笔】牛犊初生.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/？",
 		"/Users/oscar/Documents/menuet/source/_posts/art/书摘-病隙碎笔.md",
@@ -757,18 +792,15 @@
 		"/Users/oscar/Documents/menuet/source/_posts/algorithm/algorithm-15650-aster.md",
 		"/Users/oscar/Documents/menuet/source/_posts/algorithm/algorithm-15650-approximation.md",
 		"/Users/oscar/Documents/menuet/source/_posts/algorithm/algorithm-15650-alignment.md",
-		"/Users/oscar/Documents/menuet/_config.yml",
 		"/Users/oscar/Documents/menuet/source/_posts/art/书摘-张爱玲-小团圆.md",
 		"/Users/oscar/Documents/menuet/source/_posts/diary/步履不停/【随笔】步履不停.md",
 		"/Users/oscar/Documents/menuet/source/art/untitled",
 		"/Users/oscar/Documents/menuet/source/_posts/diary/【碎碎念】.md",
 		"/Users/oscar/Documents/menuet/source/_posts/draft/简历回顾.md",
-		"/Users/oscar/Documents/menuet/source/about/index.md",
 		"/Users/oscar/Documents/menuet/source/很高兴遇见你/index.md",
 		"/Users/oscar/Documents/menuet/scaffolds/page.md",
 		"/Users/oscar/Documents/menuet/scaffolds/post.md",
 		"/Users/oscar/Documents/menuet/scaffolds/draft.md",
-		"/Users/oscar/Documents/menuet/source/algorithm/index.md",
 		"/Users/oscar/Documents/menuet/source/_posts/tool/Hexo问题总结.md",
 		"/Users/oscar/Documents/周报/周报/周报-倪嘉铭-20170814.md",
 		"/Users/oscar/Documents/周报/周报/周报-倪嘉铭-20170807.md",
@@ -816,48 +848,19 @@
 		"/Users/oscar/Documents/Hexo/source/_posts/leetcode/Leetcode-227.md",
 		"/Users/oscar/Documents/Hexo/source/_posts/leetcode/Leetcode-232.md",
 		"/Users/oscar/Documents/Hexo/source/_posts/leetcode/Leetcode-225.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/cbnweekly/第一财经周刊-摘记.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/diary/solar-term/【随笔】谷雨.md",
-		"/Users/oscar/Documents/Hexo/themes/next/_config.yml",
-		"/Users/oscar/Documents/Hexo/themes/next/languages/en.yml",
-		"/Users/oscar/Documents/Hexo/themes/_config.yml",
-		"/Users/oscar/Documents/Hexo/themes/next/languages/zh-Hans.yml",
-		"/Users/oscar/Documents/Hexo/source/_posts/java/Java-日志系统.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/java/Java-logback.md",
-		"/Users/oscar/Documents/Hexo/_config.yml",
-		"/Users/oscar/Documents/Hexo/_config 2.yml",
-		"/Users/oscar/Documents/Hexo/source/_posts/life/聊聊篮球和足球.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/java/Java-Logger学习.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/leetcode/Leetcode-303.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/leetcode/Leetcode-278.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/java/Java位运算基础【Java系列笔记】.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/leetcode/Leetcode-455.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/leetcode/Leetcode-387.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/leetcode/Leetcode-258.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/java/Java内存可见性【Java系列笔记】.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/java/搭框架SpringMVC-Mybatis-Dubbo-MySQL.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/database/MySQL_Crash_Course.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/database/Database_System_Concepts.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/distribute-system/zookeeper-introduction.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/leetcode/Leetcode-130.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/leetcode/Leetcode-131.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/database/ ",
-		"/Users/oscar/Documents/Hexo/source/_posts/diary/【碎碎念】.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/leetcode/Leetcode-557.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/diary/【随笔】三人行.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/leetcode/Leetcode-543.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/leetcode/Leetcode-537.md",
-		"/Users/oscar/Documents/Hexo/source/_drafts/Core_Java.md"
+		"/Users/oscar/Documents/Hexo/source/_posts/cbnweekly/第一财经周刊-摘记.md"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 49.0
 	},
 	"find_in_files":
 	{
-		"height": 125.0,
+		"height": 128.0,
 		"where_history":
 		[
+			"<open files>",
+			"",
 			"/Users/oscar/Documents/menuet/source/_posts/algorithm",
 			""
 		]
@@ -867,6 +870,36 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"disqus",
+			"disqu",
+			"Posts",
+			"disq",
+			"disqus_shortname",
+			"a",
+			"manual",
+			"/art/",
+			"/reading/",
+			"/书",
+			"书摘",
+			"/diary",
+			"/tool/",
+			"ssl",
+			"genera",
+			"/leetcode",
+			"/distribute-system",
+			"/database/",
+			"/django/",
+			"algorithm-15650",
+			"/webapplication/",
+			"redis",
+			"/java/",
+			"Infographics",
+			"```\n",
+			"Chicago",
+			"new ",
+			"装饰者",
+			"has",
+			"theme",
 			"腾讯传》",
 			"腾讯传",
 			"大boss给我老大买了一本《腾讯传》。老大说，卧槽，我自己也买了一本。我说，那借我一本。",
@@ -964,37 +997,7 @@
 			"##",
 			"{% endcodeblock %}",
 			"{% codeblock lang:java  %}",
-			"160",
-			"448",
-			"417",
-			"231",
-			"230",
-			"508",
-			"526",
-			"532",
-			"539",
-			"532",
-			"543",
-			"414",
-			"o",
-			"o ",
-			"addrbook-example",
-			"–R",
-			"028",
-			"{% endcodeblock %}",
-			"{% codeblock lang:java  %}",
-			"501",
-			"448",
-			"500",
-			"{% codeblock lang:java  %}",
-			"{% endcodeblock %}",
-			"414",
-			"501",
-			"此间的少年",
-			"“",
-			"389",
-			"414",
-			"448"
+			"160"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1002,6 +1005,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"装饰器",
 			"next",
 			"StringBuffer"
 		],
@@ -1025,24 +1029,98 @@
 			[
 				{
 					"buffer": 0,
-					"file": "source/_posts/java/Java8实战【Java系列笔记】.md",
+					"file": "source/_posts/technology/general-development/Head-First-Design-Pattern.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 179,
+						"buffer_size": 20478,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								70,
-								55
+								20087,
+								20087
 							]
 						],
 						"settings":
 						{
 							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
 							"bracket_highlighter.locations":
 							{
 								"close":
@@ -1060,21 +1138,26 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -1085,36 +1168,31 @@
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
 							],
 							"is_init_dirty_state": false,
 							"origin_encoding": "UTF-8",
@@ -1123,7 +1201,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 32115.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1134,11 +1212,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 35.0
+		"height": 49.0
 	},
 	"input":
 	{
-		"height": 47.0
+		"height": 48.0
 	},
 	"layout":
 	{
@@ -1165,7 +1243,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 35.0
+		"height": 40.0
 	},
 	"output.find_results":
 	{
@@ -1175,7 +1253,7 @@
 	"project": "",
 	"replace":
 	{
-		"height": 66.0
+		"height": 68.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1210,7 +1288,7 @@
 	},
 	"select_symbol":
 	{
-		"height": 392.0,
+		"height": 119.0,
 		"last_filter": "",
 		"selected_items":
 		[
@@ -1225,7 +1303,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 233.0,
+	"side_bar_width": 213.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
