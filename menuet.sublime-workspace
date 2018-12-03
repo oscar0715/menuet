@@ -519,15 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "source/_posts/technology/general-development/Head-First-Design-Pattern.md",
-			"settings":
-			{
-				"buffer_size": 20478,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -584,7 +575,7 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 299.0,
+		"height": 269.0,
 		"last_filter": "reload",
 		"selected_items":
 		[
@@ -722,31 +713,47 @@
 		"/Users/oscar/Documents/menuet/source/_posts",
 		"/Users/oscar/Documents/menuet/source/_posts/art",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book",
+		"/Users/oscar/Documents/menuet/source/_posts/art/life",
 		"/Users/oscar/Documents/menuet/source/_posts/art/movie"
 	],
 	"file_history":
 	[
+		"/Users/oscar/Documents/menuet/source/_posts/art/life/How_Bad_Do_You_Want_It.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/book-the-willpower-instinct.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/book-tencent-product-basis.md",
+		"/Users/oscar/Documents/menuet/source/_posts/technology/ios/swift-guide-tour.md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/java/Java8-functional-programming .md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/书评-徐贵祥 -历史的天空.md",
+		"/Users/oscar/Documents/menuet/source/_posts/technology/java/web-xml-in-a-Web-Project.md",
+		"/Users/oscar/Documents/menuet/source/_posts/technology/general-development/Head-First-Design-Pattern.md",
+		"/Users/oscar/Documents/menuet/source/_posts/technology/java/effective-java-third-edition.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/书评-刘桂香.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/movie/film-let-the-bullets-fly-2010.md",
 		"/Users/oscar/Documents/menuet/source/_posts/algorithm/recommendation/CF-for-implicit-dataset.md",
+		"/Users/oscar/Documents/menuet/source/_posts/algorithm/recommendation/recommend-notes.md",
+		"/Users/oscar/Documents/menuet/source/_posts/algorithm/recommendation/collaboration-filtering.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/movie/movie-talk-2017.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/movie/film-hidden-man-2018.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/movie/film-hidden-man-2018 copy.md",
+		"/Users/oscar/Documents/menuet/source/_posts/algorithm/recommendation/# 本周任务",
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/spiritualhome/silent-majority.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/movie/笔记-电影-阿飞正传.md",
-		"/Users/oscar/Documents/menuet/source/_posts/art/book/书摘-小王子.md",
+		"/Users/oscar/Documents/menuet/source/art/index.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/diary/【随笔目录】我的精神家园.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/My-Book-List.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/书摘-王小波-寻找无双.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/书摘-小王子.md",
 		"/Users/oscar/Downloads/类目分数的分布（dd,ht,hyq）.txt",
 		"/Users/oscar/Documents/menuet/source/_posts/art/movie/笔记-电视剧-帝术.md",
 		"/usr/local/Cellar/tomcat/8.5.15/libexec/bin/catalina.sh",
-		"/Users/oscar/Documents/menuet/source/_posts/algorithm/recommendation/# 本周任务",
 		"/Users/oscar/Documents/menuet/source/_posts/art/diary/步履不停/【随笔】步履不停.md",
-		"/Users/oscar/Documents/menuet/source/art/index.md",
-		"/Users/oscar/Documents/menuet/source/_posts/art/diary/【随笔目录】我的精神家园.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/diary/步履不停/【随笔】我们的黄金时代.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/diary/步履不停/【随笔】一路逆风.md",
-		"/Users/oscar/Documents/menuet/source/_posts/art/book/spiritualhome/silent-majority.md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/java/Spring-in-Action-笔记-一.md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/java/new-spring-project.md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/tool/Hexo问题总结.md",
 		"/Users/oscar/Documents/logs.txt",
 		"/Users/oscar/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
-		"/Users/oscar/Documents/menuet/source/_posts/technology/java/web-xml-in-a-Web-Project.md",
 		"/Users/oscar/Documents/menuet/source/algorithm/index.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/书摘-徐贲-人以什么理由来记忆.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/spiritualhome/沉默的大多数.md",
@@ -757,9 +764,7 @@
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/书摘-牧羊少年的奇幻之旅.md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/webapplication/codecademy_jquery.md",
 		"/Users/oscar/Documents/menuet/source/technology/index.md",
-		"/Users/oscar/Documents/menuet/source/_posts/algorithm/recommendation/collaboration-filtering.md",
 		"/Users/oscar/Downloads/【btrenren.com】三块广告牌.Three.Billboards.Outside.Ebbing.Missouri.2017.BD1080P.x264.中英双字幕.eng.chs.mp4.torrent",
-		"/Users/oscar/Documents/menuet/source/_posts/technology/general-development/Head-First-Design-Pattern.md",
 		"/Users/oscar/Documents/menuet/source/_posts/general-development/Head-First-Design-Pattern.md",
 		"/Users/oscar/Documents/menuet/source/_posts/webapplication/codecademy_js.md",
 		"/Users/oscar/Documents/menuet/source/_posts/webapplication/introduction_to_CSS.md",
@@ -775,7 +780,6 @@
 		"/Users/oscar/Documents/menuet/source/_posts/art/书摘-原研哉-设计中的设计.md",
 		"/Users/oscar/Documents/menuet/source/art/1. 所有项目和日常需求都正常上线，并且在发布前，接口都能稳定（开周会的时候，我的需求都不会是风险高",
 		"/Users/oscar/Documents/menuet/source/_posts/general-development/mastering-regex.md",
-		"/Users/oscar/Documents/menuet/source/_posts/art/My-Book-List.md",
 		"/Users/oscar/Documents/menuet/source/_posts/java/Java8实战【Java系列笔记】.md",
 		"/Users/oscar/Documents/menuet/source/_posts/java/Java编程思想【Java系列笔记】.md",
 		"/Users/oscar/Documents/menuet/source/_posts/java/Java位运算基础【Java系列笔记】.md",
@@ -841,19 +845,7 @@
 		"/Users/oscar/Documents/Hexo/source/_posts/diary/【随笔】如烟.md",
 		"/Users/oscar/Documents/Hexo/source/_posts/diary/solar-term-us/【随笔】立春.md",
 		"/Users/oscar/Documents/Hexo/source/_posts/philosophy/：",
-		"/Users/oscar/Documents/Hexo/source/_posts/diary/solar-term-us/【随笔】立夏.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/art/书摘-逃避自由.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/art/One_Way_Street摘记.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/diary/solar-term/【随笔】立夏.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/art/书摘-木心-素履之往.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/java/Java编程思想【Java系列笔记】.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/philosophy/笔记-正义-哈佛大学.md",
-		"/Users/oscar/Documents/Hexo/source/about/index.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/art/书摘-未来简史.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/art/书摘-人类简史.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/art/笔记-阿越-新宋.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/art/笔记-汪曾祺-老人情.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/art/书评-严歌苓-陆犯焉识.md"
+		"/Users/oscar/Documents/Hexo/source/_posts/diary/solar-term-us/【随笔】立夏.md"
 	],
 	"find":
 	{
@@ -875,6 +867,18 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"石云彪的风格和梁庭辉迥然相异，我想这是源于两支部队的实际情况的不同。国民党军队是正规军，需要的是石云彪这样的正统严格的将领来指挥军队。而八路军更多的是游记部队，需要梁庭辉这样灵活亲民的指挥员来培养部队。",
+			"就连陈墨涵y",
+			"无知",
+			" \n",
+			"集",
+			"\\_",
+			"_",
+			"\n\n\n\n",
+			"\n\n\n",
+			"五角",
+			"旭仔",
+			"声色犬马",
 			",",
 			"装饰器模式",
 			"来看一看装饰器模式的定义",
@@ -990,19 +994,7 @@
 			"regionserver",
 			".META.",
 			"-ROOT-",
-			"version",
-			"Java内存可见性",
-			"volatile",
-			"177",
-			"176",
-			"175",
-			"053",
-			"getRight()",
-			"getLeft()",
-			"{% codeblock lang:java  %}",
-			"{% endcodeblock %}",
-			"##",
-			"266"
+			"version"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1029,226 +1021,14 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "source/_posts/technology/general-development/Head-First-Design-Pattern.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 20478,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								14524,
-								14524
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										14524,
-										14525
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"region.yellowish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										14448,
-										14449
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										14906,
-										14909
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/dot.png",
-										"region.yellowish brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										13813,
-										13816
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
-							"is_init_dirty_state": false,
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 36.0
+		"height": 49.0
 	},
 	"input":
 	{
@@ -1339,7 +1119,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 156.0,
+	"side_bar_width": 386.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

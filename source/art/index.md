@@ -15,13 +15,14 @@ layout: post
 
 | 列表           | 说明           | 
 | ------------- | -------------:| 
-| **<a href="/art/My-Book-List/">My-Book-List</a>** | 阅读清单  |   
-| **<a href="/art/My-Movie-List/">My-Movie-List</a>** | 电影清单|
 | **<a href="/art/diary/【随笔目录】我的精神家园/">随笔目录</a>** | 我的精神家园|
 
 | 书摘           | 
 | ------------- |
-| **<a href="/art/book/spiritualhome/silent-majority/">书评 《沉默的大多数》王小波 </a>** |
+| **<a href="/art/book/book-the-willpower-instinct/">书评 《自控力》凯利·麦格尼格尔 </a>** |
+| **<a href="/art/book/book-xuguixiang-lishidetiankong/">书评 《历史的天空》徐贵祥 </a>** |
+| **<a href="/art/book/spiritualhome/silent-majority-review/">书评 《沉默的大多数》王小波 </a>** |
+| **<a href="/art/book/spiritualhome/silent-majority/">笔记 《沉默的大多数》王小波 </a>** |
 | **<a href="/art/book/书摘-小王子/">书摘 《小王子》圣埃克苏佩里 </a>**  |
 | **<a href="/art/book/书摘-原研哉-设计中的设计/">书摘 《设计中的设计》原研哉 </a>** |
 | **<a href="/art/book/书评-吴晓波-腾讯传/">书摘 《腾讯传》吴晓波 </a>**  |
@@ -44,6 +45,8 @@ layout: post
 
 | 影评           | 
 | ------------- |
+| **<a href="/art/movie/movie-coach-carter-2005//">影评 《卡特教练》</a>**    |
+| **<a href="/art/movie/movie-talk-2017/">笔记 《表演者言》</a>**    |
 | **<a href="/art/movie/笔记-电影-阿飞正传/">影评 《阿飞正传》 王家卫</a>**    |
 | **<a href="/art/movie/笔记-纪录片-河西走廊/">笔记 《河西走廊》</a>**    |
 | **<a href="/art/movie/笔记-纪录片-唐之韵/">笔记 《唐之韵》</a>**     |
