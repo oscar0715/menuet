@@ -19,6 +19,7 @@ layout: post
 
 | 书摘           | 
 | ------------- |
+| **<a href="/art/book/swordsman/book-the-legend-of-the-condor-heroes/">书评 《射雕英雄传》金庸 </a>** |
 | **<a href="/art/book/book-the-willpower-instinct/">书评 《自控力》凯利·麦格尼格尔 </a>** |
 | **<a href="/art/book/book-xuguixiang-lishidetiankong/">书评 《历史的天空》徐贵祥 </a>** |
 | **<a href="/art/book/spiritualhome/silent-majority-review/">书评 《沉默的大多数》王小波 </a>** |
