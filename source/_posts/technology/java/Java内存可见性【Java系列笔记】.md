@@ -27,7 +27,7 @@ Java 内存可见性
 2. 每个线程都有自己`独立的工作内存`，里面保存该线程使用到的变量的副本（主内存中该变量的一份拷贝）
 
 图解 JMM
-![JMM](http://ogy9ohfjc.bkt.clouddn.com/java-kejianxing/JMM.png "JMM")
+![JMM]( https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/java/JMM.png "JMM")
 
 规定
 1. 线程对共享变量所有的操作都必须在自己的工作内存中进行，不能直接从主内存中读写（不能越级）

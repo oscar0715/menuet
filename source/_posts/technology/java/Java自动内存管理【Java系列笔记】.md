@@ -22,7 +22,7 @@ Java 虚拟机运行时数据区
 4. 本地方法栈
 5. 方法区
 
-![数据区](http://ogy9ohfjc.bkt.clouddn.com/neicunguanli/runtime-shujuqu.png "数据区")
+![数据区]( https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/java/runtime-shujuqu.png "数据区")
 
 # 程序计数器
 Program Counter Register
@@ -78,10 +78,10 @@ Java 堆
 3. 作为Java对象的主要存储区域
 4. 要求实现自动内存管理，也就是GC 
 
-![堆和栈1](http://ogy9ohfjc.bkt.clouddn.com/neicunguanli/stackandheap.png "堆和栈1")
+![堆和栈1](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/java/stackandheap.png "堆和栈1")
 Reference 直接指向对象的地址，对象的对象头中有一个到对象类型数据的指针，再通过这个指针到方法区找对象的类型数据。这个方法的好处是，更快（更直接嘛），指针内存更少。
 
-![堆和栈2](http://ogy9ohfjc.bkt.clouddn.com/neicunguanli/stackandheap2.png "堆和栈2")
+![堆和栈2](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/java/stackandheap2.png "堆和栈2")
 Reference指向一个句柄。这种方法的好处是，对象实例被移动或者回收以后，Reference本身是不用被修改的，存储的值是稳定的，只会改变句柄池中到对象实例数据的指针。
 
 Java堆异常

@@ -18,18 +18,18 @@ Head First Desgin Pattern
 举个例子：Duck 类
 不同种类的鸭子继承了 Duck 父类：
 
-![简单继承](http://p0h985ofr.bkt.clouddn.com/design/pattern/strategy/1.1-simple-extend.png)
+![简单继承](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/strategy/1.1-simple-extend.png)
 
 但是，当我们要给鸭子加入一个 `fly()` 方法的时候，这样的方式就会遇到麻烦：不会飞的鸭子怎么办呢？只能在 Rubber Duck 中重写 `fly()` 方法。也就是说：
 1. 我们改动了父类就会影响到所有的子类，
 2. 造成代码重复，所有不会飞的鸭子都要重写这个方法
 
-![简单继承](http://p0h985ofr.bkt.clouddn.com/design/pattern/strategy/1.2-simple-extend.png)
+![简单继承](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/strategy/1.2-simple-extend.png)
 
 那我们换用接口的方式来实现：
 1. 我们仍然无法避免代码重复的问题，所有会飞的鸭子都要自己实现一遍 `fly()` 方法
 
-![简单接口](http://p0h985ofr.bkt.clouddn.com/design/pattern/strategy/2-simple-interface.png)
+![简单接口](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/strategy/2-simple-interface.png)
 
 这个时候就可以考虑设计模式了
 
@@ -39,7 +39,7 @@ Head First Desgin Pattern
 3. Duck 类中用 performFly() 方法触发  `fly()` 方法，但并不关心这个方法是怎么实现的
 4. 甚至可以写 setter 方法，在运行时改动 FlyBehavior 的实现
 
-![策略模式](http://p0h985ofr.bkt.clouddn.com/design/pattern/strategy/3-strategy-pattern.png)
+![策略模式](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/strategy/3-strategy-pattern.png)
 
 
 主要的思想有两点:
@@ -47,7 +47,9 @@ Head First Desgin Pattern
 2. 组合比继承更加灵活
 
 <br>
+
 ***
+
 <br>
 
 # Observer Pattern
@@ -59,10 +61,10 @@ Head First Desgin Pattern
     - statisticsDisplay
     - forecastDisplay
 
-![Weather Data Class](http://p0h985ofr.bkt.clouddn.com/design/pattern/observer/WeatherDataClass.png?v=2)
+![Weather Data Class](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/observer/WeatherDataClass.png?v=2)
 
 
-``` java
+``` Java
 // 最直接的实现方法
 public class WeatherData {
 
@@ -87,7 +89,7 @@ public class WeatherData {
 
 所以使用观察者模式：
 
-![观察者模式](http://p0h985ofr.bkt.clouddn.com/design/pattern/observer/ObserverPattern.png?v=2)
+![观察者模式](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/observer/ObserverPattern.png?v=2)
 
 要点：
 1. 核心是 Subject 和 Observer 两个接口
@@ -99,7 +101,9 @@ public class WeatherData {
 3. 观察者模式实现了 push 的机制
 
 <br>
+
 ***
+
 <br>
 
 
@@ -108,14 +112,14 @@ public class WeatherData {
 **背景：**
 Starbuzz 咖啡店卖四种咖啡：HouseBlend, DarkRoast, Decaf, Espresso
 
-![Class Diagram](http://p0h985ofr.bkt.clouddn.com/design/pattern/decorator/1-background.png)
+![Class Diagram](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/decorator/1-background.png)
 
 咖啡店还提供了四种佐料：milk, soy, mocha, whip
 每种咖啡都能加入任意种佐料，每种都要收费，那么如何才能灵活计费呢？
 
 第一种方法：
 简单地在父类中，将是否含有佐料用 Boolean 类型的变量标记出来：
-![Simple Extension](http://p0h985ofr.bkt.clouddn.com/design/pattern/decorator/2-inheritance.png)
+![Simple Extension](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/decorator/2-inheritance.png)
 
 1. 显然这样方法最大的问题在于，一旦有新的佐料，我们就要对所以子类的 `cost()` 进行修改。
 2. 如果某种佐料的价格发生了变化，我们也要对现有的代码进行修改
@@ -136,26 +140,26 @@ Starbuzz 咖啡店卖四种咖啡：HouseBlend, DarkRoast, Decaf, Espresso
 
 我们可以将装饰的对象想象成一个 wrapper 类（包装类）
 
-![Wrapper](http://p0h985ofr.bkt.clouddn.com/design/pattern/decorator/3-wrapper.png)
+![Wrapper](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/decorator/3-wrapper.png)
 
 调用cost的方法的时候，我们调用最外层 Whip类的 cost 方法，然后不断向里层调用，然后类似递归地不断向外累加并返回
 
 （很熟悉啊，链表+递归？）
 
-![Call cost()](http://p0h985ofr.bkt.clouddn.com/design/pattern/decorator/4-call-cost%28%29-method.png)
+![Call cost()](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/decorator/4-call-cost%28%29-method.png)
 
 来看一看**装饰器模式**的定义
 >装饰器模式能够动态地给对象添加新的职责。
 
 这种灵活性可以代替继承关系
 
-![Decorator Pattern on Coffee](http://p0h985ofr.bkt.clouddn.com/design/pattern/decorator/5-decorator-on-coffee.png)
+![Decorator Pattern on Coffee](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/decorator/5-decorator-on-coffee.png)
 
 要点：
 1. 装饰器的类和咖啡的实现类是 same type，因为类型相同，装饰器类才能包在 Beverage 的实现类外面。
 2. 装饰器的实现类(例如 Milk)类中有一个 Beverage 的变量，可以看做是接口类型的变量，达到了“组合”的目的。所以此处装饰器类并没有利用“继承”来使用`cost()`方法，而是利用了“组合”
 
-``` java
+``` Java
 // Beverage 基类
 public abstract class Beverage {
     String description= "unknown beverage";
@@ -178,7 +182,7 @@ public abstract class CondimentDecorator extends Beverage {
 
 ```
 
-``` java
+``` Java
 // Beverage 的实现类
 public class Espresso extends Beverage {
 
@@ -196,7 +200,7 @@ public class Espresso extends Beverage {
 // 另外的 HouseBlend, DarkRoast, Decaf 都同理
 ```
 
-``` java
+``` Java
 // 装饰器的实现类
 // 继承了 condimentDecorator（CondimentDecorator 继承了 Beverage）
 public class Mocha extend CondimentDecorator {
@@ -220,7 +224,7 @@ public class Mocha extend CondimentDecorator {
 }
 ```
 
-``` java 
+``` Java 
 public class Starbuzz {
     public static void main() {
         Beverage beverage = new Espresso();
@@ -237,14 +241,16 @@ public class Starbuzz {
 ```
 
 <br>
+
 ***
+
 <br>
 
 # Factory Pattern
 
 背景：仍然是Pizza店，假设我们要根据不同的输入来定制不同的 Pizza：
 
-``` java
+``` Java
 Pizza orderPizza (String type) {
     // Pizza 是一个Interface（或者父类）
     Pizza pizza;
@@ -270,7 +276,7 @@ Pizza orderPizza (String type) {
 可以发现，变动的代码只是那一堆用来 new 出一个 Pizza 类的 if / else 
 那么，我们就可以把这一段代码抽出来
 
-``` java
+``` Java
 public class SimplePizzaFacrtory {
     public Pizza createPizza(String type) {
         if(type.equal("cheese")) {
@@ -287,7 +293,7 @@ public class SimplePizzaFacrtory {
 
 
 重新写一下 PizzaStore 类：
-``` java
+``` Java
 
 public class PizzaStore {
     SimplePizzaFactory factory;
@@ -311,7 +317,7 @@ public class PizzaStore {
 
 ```
 
-![简单工厂方法](http://p0h985ofr.bkt.clouddn.com/design/pattern/factory/simple-factory.png)
+![简单工厂方法](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/factory/simple-factory.png)
 
 要点：
 1. Pizza Store 是 SimplePizzaFactory 的 Client。抽象出来抽象出来以后，这个 SimplePizzaFactory 类，既可以提供给订单系统，也可以提供给菜单系统，也可以提供给外卖系统
@@ -326,8 +332,8 @@ public class PizzaStore {
 
 有时候不同地方的披萨店需要制作不同的Pizza
 
-![Pizza Factory Method Pattern](http://p0h985ofr.bkt.clouddn.com/design/pattern/factory/pizza-factory.png)
-``` java 
+![Pizza Factory Method Pattern](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/factory/pizza-factory.png)
+``` Java 
 // 抽象类，用于不同的店去继承
 public abstract class PizzaStore {
 
@@ -350,7 +356,7 @@ public abstract class PizzaStore {
 ```
 
 例如在 Chicago 的披萨店可以这样实现：
-``` java 
+``` Java 
 public Pizza createPizza(String type) {
     if(type.equal("cheese")) {
         pizza = new ChicagoStyleCheesePizza();
@@ -364,7 +370,7 @@ public Pizza createPizza(String type) {
 ```
 
 而在 New York 的披萨店则可以这样实现
-``` java 
+``` Java 
 public Pizza createPizza(String type) {
     if(type.equal("cheese")) {
         pizza = new NYStyleCheesePizza();
@@ -395,7 +401,7 @@ PizzaStore 这个类的要点：
 3. 所以说，抽象工厂方法封装了具体实现的细节
 
 
-![Factory Pattern](http://p0h985ofr.bkt.clouddn.com/design/pattern/factory/factory-pattern.png)
+![Factory Pattern](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/factory/factory-pattern.png)
 我们再抽象一下工厂方法模式
 
 1. Creator 中的 abstract factoryMethod() 负责生产一个 Product。
@@ -405,7 +411,9 @@ PizzaStore 这个类的要点：
 
 
 <br>
+
 ***
+
 <br>
 
 # Singleton Pattern
@@ -484,19 +492,21 @@ public class Singleton {
 <a href="/java/Java%E5%86%85%E5%AD%98%E5%8F%AF%E8%A7%81%E6%80%A7%E3%80%90Java%E7%B3%BB%E5%88%97%E7%AC%94%E8%AE%B0%E3%80%91/">关于 Volatile 和 synchronized 可以看着一篇文章</a>
 
 <br>
+
 ***
+
 <br>
 
 # Command Pattern
 背景:
 下面的类图展示了不同家电的开关接口，不同的家电开关的方法都不一样，现在要给这些家电做一个统一的开关，放在一把统一的遥控器上：
 
-![不同的电器的类图](http://p0h985ofr.bkt.clouddn.com/design/pattern/command/Background.png)
+![不同的电器的类图](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/command/Background.png)
 
 怎么做呢
 
 1. 定义一个控制器的接口，这个控制器是一个统一接口，只有一个 `execute()` 方法
-``` java
+``` Java
 public interface Command {
     public void  execute();
 }
@@ -504,7 +514,7 @@ public interface Command {
 
 2. 接下来，给灯写一个开灯的控制器类，这个类实现了上面的控制器接口
     实际上这个控制器就是在 Light 类外面封装了一层，这样可以不侵入 Light 类的代码，用execute()方法实现了统一的开关封装
-``` java
+``` Java
 public class LightOnCommand implement Command {
     Light light;
 
@@ -539,7 +549,7 @@ public class SimpleRemoteControl {
 ```
 
 4. 写一个 Test 类把上面的类整合在一起
-``` java
+``` Java
 public class RemoteControlTest {
     public static void main (String[] args) {
 
@@ -562,7 +572,7 @@ public class RemoteControlTest {
 Command Pattern 的类图如下：
 
 
-![Command Pattern](http://p0h985ofr.bkt.clouddn.com/design/pattern/command/CommandPattern.png)
+![Command Pattern](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/command/CommandPattern.png)
 
 图中的元素分解：
 1. client（就是上面的 Test类）：
@@ -578,7 +588,9 @@ Command Pattern 的类图如下：
     - execute() 封装了 Receiver 的具体 action 方法（例如 on()）
 
 <br>
+
 ***
+
 <br>
 
 # Adapter Pattern
@@ -596,7 +608,7 @@ Command Pattern 的类图如下：
 2. 没办法，只能用火鸡代替一下鸭子
 3. 所以要写一个火鸡到鸭子的适配器
 
-``` java
+``` Java
 
 // 你想要的 鸭子
 public interface Duck() {
@@ -607,7 +619,7 @@ public interface Duck() {
 
 ```
 
-``` java
+``` Java
 
 // 现在只有火鸡
 public interface Turkey() {
@@ -618,7 +630,7 @@ public interface Turkey() {
 
 ```
 
-``` java
+``` Java
 
 // 写一个适配器
 public class TurkeyAdaptor implements Duck() {
@@ -645,7 +657,7 @@ public class TurkeyAdaptor implements Duck() {
 ```
 
 来看看适配器模式的 UML 图
-![Adapter Pattern](http://p0h985ofr.bkt.clouddn.com/design/pattern/adapter/Adaptor-Pattern.png)
+![Adapter Pattern](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/adapter/Adaptor-Pattern.png)
 
 1. Target 是用户想要操作的类，也就是上面的 Duck
 2. Adaptee 是现有能提供的类，也就是上面的 Turkey
@@ -655,7 +667,9 @@ Adapter 对 Duck 完成了包装，Client 完全不会感知 Duck 类。
 Duck 也不需要为了 Client做出任何改动。这就是 Adapter 类的作用
 
 <br>
+
 ***
+
 <br>
 
 # Facade Pattern
@@ -672,14 +686,14 @@ Facade 和 Adapter 的联系：
     - Adapter 对 Adaptee 进行了包装
 3. 两者都通过包装完成了 Client 对内部系统的解耦，如果遇到接口的变化，之间要改变 Facade 或者 Adapter 就好了
 
-![Facade Pattern](http://p0h985ofr.bkt.clouddn.com/design/pattern/facade/Facade-Pattern.png)
+![Facade Pattern](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/facade/Facade-Pattern.png)
 
 Facade Pattern 体现了一个设计原理：
 Principle of Least Knowledge：
 减少需要交互对象的数量，只关心最亲近的对象就好了，这样能减少依赖，降低对象间的耦合。
 
 举一个例子
-``` java
+``` Java
 public float getTemp() {
     Thermometer thermometer = station.getThermometer();
     return thermometer.getTemperature();
@@ -690,7 +704,7 @@ public float getTemp() {
 }
 ```
 
-``` java
+``` Java
 public float getTemp() {
     return station.getTemperature();
     // 如果直接从 station 方法获得温度，就比较好
@@ -700,14 +714,16 @@ public float getTemp() {
 
 
 <br>
+
 ***
+
 <br>
 
 # Template Pattern
 
 举个例子，一家店同时提供了咖啡和茶，因为制作茶和咖啡的方法不同，所以两个类也有所不同：
 
-![Problem background](http://p0h985ofr.bkt.clouddn.com/design/pattern/template/problem-background.png)
+![Problem background](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/template/problem-background.png)
 
 1. 父类 `Caffeine` 中有两个子类共有的三个方法
 2. 子类都要 override prepareRecipe() 方法，因为咖啡和茶的的配方不同
@@ -725,14 +741,14 @@ public float getTemp() {
 
 所以我们可以这样抽象:
 
-![further abstraction](http://p0h985ofr.bkt.clouddn.com/design/pattern/template/further-abstraction.png)
+![further abstraction](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/template/further-abstraction.png)
 
 只要在子类里面去重写 brew() 和 addCondiment() 方法就好了
 
 在这里 CaffeineBeverage 定义了一系列规范的流程。
 
 然后我们可以进一步推出我们的模板模式
-![template pattern](http://p0h985ofr.bkt.clouddn.com/design/pattern/template/template-pattern.png)
+![template pattern](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/template/template-pattern.png)
 
 注意：
 1. 上图的 templateMethod() 依次调用了 primitiveOperation1(), primitiveOperation2()
@@ -745,7 +761,7 @@ public float getTemp() {
 
 
 再来看看具体的代码
-``` java
+``` Java
 abstract class AbstractClass {
 
     // 模板方法 final 子类不能改动
@@ -783,7 +799,7 @@ abstract class AbstractClass {
 可以选择用 hook method 
 
 举个具体的例子：
-``` java 
+```java 
 public class CaffeineBeverageWithHook {
 
     // 模板方法 
@@ -825,7 +841,9 @@ public class CaffeineBeverageWithHook {
 ```
 
 <br>
+
 ***
+
 <br>
 
 # Iterator Pattern
@@ -833,7 +851,9 @@ public class CaffeineBeverageWithHook {
 迭代器模式：封装了集合的底层数据结构，提供了统一的遍历集合的方法
 
 <br>
+
 ***
+
 <br>
 
 # State Pattern 
@@ -842,12 +862,12 @@ public class CaffeineBeverageWithHook {
 
 状态图如下：
 
-![State Diagram](http://p0h985ofr.bkt.clouddn.com/design/pattern/state/state-diagram.png)
+![State Diagram](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/state/state-diagram.png)
 
 接下来实现一个糖果机的类
 
 
-``` java
+``` Java
 public class GumballMachine {
     // 四种状态码
     final statict int SOLD_OUT = 0;
@@ -900,13 +920,13 @@ public class GumballMachine {
 
 重构后的类图如下图所示
 
-![state-pattern](http://p0h985ofr.bkt.clouddn.com/design/pattern/state/state-pattern%20.png)
+![state-pattern](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/state/state-pattern%20.png)
 
 1. 定义了 State 接口，定义了糖果机所有的 Action 方法
 2. 每种状态都会去实现这个 State 接口在特定状态下的对应的方法
 
 举个例子：
-``` java
+``` Java
 public class NoQuarterState implements State {
     GumballMachine gumballMachine;
 
@@ -928,7 +948,7 @@ public class NoQuarterState implements State {
 ```
 
 再来看看 GumballMachine 的实现
-``` java
+``` Java
 public class GumballMachine {
     
     State soldOutState;
@@ -970,7 +990,7 @@ Client 对 GumballMachine 的操作最终会 delegate 到具体的状态实现�
 
 状态模式的类图如下：
 
-![class diagram](http://p0h985ofr.bkt.clouddn.com/design/pattern/state/state-pattern%20-diagram.png)
+![class diagram](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/state/state-pattern%20-diagram.png)
 
 1. Context 就是具有不同状态的对象，就是之前例子中的`Gumball Machine`
 2. Context 每次接到一个请求，都会去调用 handle() 方法，然后 delegate 到给**当前的状态实现类**去处理
@@ -978,7 +998,9 @@ Client 对 GumballMachine 的操作最终会 delegate 到具体的状态实现�
 其实结构上状态模式和策略模式还是一样的，但是状态模式的重点在于，可以在不同的状态间进行转化。
 
 <br>
+
 ***
+
 <br>
 
 

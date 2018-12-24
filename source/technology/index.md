@@ -13,9 +13,17 @@ layout: post
 
 <br> 
 
-## 编程相关
+# 开发相关
 
-### Java
+
+## 开发者的自我修养
+
+| 文章       | 介绍           | 
+| ------------- | -------------:| 
+| **<a href="/technology/general-development/Head-First-Design-Pattern/">图解设计模式 </a>** | Head First 设计模式的图片版笔记 |   
+
+
+## Java
 
 | 文章       | 介绍           | 
 | ------------- | -------------:| 
@@ -27,33 +35,13 @@ layout: post
 | **<a href="/technology/java/Java垃圾回收机制【Java系列笔记】/">Java垃圾回收机制</a>** | Java垃圾回收机制【Java系列笔记】| 
 
 
-Java Web
+## Java Web
 
 | 文章           | 介绍           | 
 | ------------- | -------------:| 
 | **<a href="/technology/java/web-xml-in-a-Web-Project/">web.xml_in_a_Web_Project </a>** | web.xml文件的详细解析| 
 
-
-
-
-
-### Python Django
-
-| Python Django   |
-|:----------|
-| **<a href="/technology/django/python-tools/">Python-Tools</a>** |
-| **<a href="/technology/django/django-learning">Django tutorial</a>** |
-| **<a href="/technology/django/django-customizing_authentication">Django Authentication</a>** |
-| **<a href="/technology/django/django-bootstrap3">Django bootstrap3</a>** |
-| **<a href="/technology/django/django-forms">Django forms</a>** |
-| **<a href="/technology/django/django-sending-email">Django Sending email</a>** |
-| **<a href="/technology/django/django-userena/">Django-userena 第三方用户管理插件</a>** |
-| **<a href="/technology/django/django-load-data-fixture/">Django 导入 json 数据到数据库</a>** |
-| **<a href="/technology/django/django-ajax-address/">Django 地址联动的 Ajax 实现</a>** |
-| **<a href="/technology/django/django-static-file/">Django 静态文件的管理</a>** |
-| **<a href="/technology/django/django-wsgi-ngix/">Django + uWSGI + nginx</a>** |
-
-### DataBase
+## DataBase
 
 | 数据库       |
 |:----------|
@@ -63,37 +51,18 @@ Java Web
 | **<a href="/technology/database/Mysql_multiple_column_index/">Mysql 联合索引</a>** |
 | **<a href="/technology/database/MySQL_Crash_Course/">《MySQL Crash Course》笔记</a>** |
 
+
+
 <br>
+
 ***
-<br>
-
-## 技术类阅读
-
-### Distributed System
-| Content                                                              | 
-| ---------------------------------------------------------------------|
-| **<a href="/technology/distribute-system/cmu-95702-cryptography/">           95702-Security and Cryptography</a>**                                  | 
-| **<a href="/technology/distribute-system/cmu-95702-service-design/">       96702-Service Design </a>**                                            | 
-| **<a href="/technology/distribute-system/cmu-95702-interprocess-communication/">95702-Interprocess Communication </a>**| 
-| **<a href="/technology/distribute-system/cmu-95702-remote-invocation/">      95702-Remote Invocation </a>**| 
-| **<a href="/technology/distribute-system/cmu-95702-web-service/">95702-Web Service </a>** | 
-| **<a href="/technology/distribute-system/cmu-95702-end-to-end-Arguments/">95702-End to End Arguments in System Design </a>**                     | 
-| **<a href="/technology/distribute-system/cmu-95702-project4/">              95702-Project 4 </a>**                                                 | 
-| **<a href="/technology/distribute-system/cmu-95702-project5/">              95702-Project 5 </a>**                                                 | 
-| **<a href="/technology/distribute-system/cmu-95702-project6/">              95702-Project 6 Snapshot Algorithm </a>**                              | 
-| **<a href="/technology/distribute-system/cmu-95702-transaction/">95702-Transaction </a>**                                               | 
-| **<a href="/technology/distribute-system/cmu-95702-final-review/">95702-Final Review </a>** | 
-| **<a href="/technology/distribute-system/cmu-95702-projects-review/">95702-Project Review 课程项目总结 </a>**| 
-| **<a href="/technology/distribute-system/0-rpc-intro/">RPC Introduction </a>**  |
-| **<a href="/technology/distribute-system/0-alibaba-dubbo/">Alibaba dubbo </a>** | 
-| **<a href="/technology/distribute-system/0-rest/">REST</a>**|  
-| **<a href="/technology/distribute-system/zookeeper-introduction/">Zookeeper Introduction</a>** |  
 
 <br>
-***
-<br>
 
-## 介绍一些工具的文章
+
+# 技术类阅读
+
+# 介绍一些工具的文章
 
 | 工具           | 介绍                                                     | 
 | ------------- | -------------:                                           | 
@@ -104,10 +73,13 @@ Java Web
 | **<a href="/technology/tool/Git-Learning/">Git Learning</a>**           | Git 学习笔记                                                                |
 
 <br>
+
 ***
+
 <br>
 
-## 软件
+
+# 软件
 | 文章       | 介绍           | 
 | ------------- |:-------------:| 
 | **<a href="/technology/tool/Softwares-on-Mac/">Mac上好用的软件</a>**   | Mac上好用的软件，关键还有下载地址|

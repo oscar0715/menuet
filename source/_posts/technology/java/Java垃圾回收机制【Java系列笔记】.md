@@ -48,7 +48,7 @@ Java中可以作为 GC-root：
 1. 标记：在标记阶段标记出所有需要清除的对象
 2. 清除：在标记完成后统一清除这些对象
 
-![标记清除算法](http://ogy9ohfjc.bkt.clouddn.com/java-grabage-collection/gc-biaojiqingchusuanfa.png "标记清除算法" )
+![标记清除算法](  https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/java/gc-biaojiqingchusuanfa.png "标记清除算法" )
 
 缺陷：
 1. 标记清除之后会产生大量不连续的内存碎片
@@ -65,7 +65,7 @@ Java中可以作为 GC-root：
 2. 每次只用一块
 3. 当这一块内存用完的时候，就将还存活的对象复制到另一块内存上。然后把当前的这块内存清空。
 
-![复制算法](http://ogy9ohfjc.bkt.clouddn.com/java-grabage-collection/gc-fuzhisuanfa.png "复制算法" )
+![复制算法](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/java/gc-fuzhisuanfa.png "复制算法" )
 
 优点：分配内存的效率高，只需要移动堆顶的指针就好了
 缺点：内存大小只剩下一半了。
@@ -87,7 +87,7 @@ Java中可以作为 GC-root：
 1. 标记：过程和`标记清除算法`的标记阶段一样
 2. 整理：让所有对象向一端移动，然后对另一端进行清理。
 
-![标记整理算法](http://ogy9ohfjc.bkt.clouddn.com/java-grabage-collection/gc-biaojizhenglisuanfa.png "标记整理算法" )
+![标记整理算法](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/java/gc-biaojizhenglisuanfa.png "标记整理算法" )
 
 缺陷：
 1. 相对于`标记清除算法`，对系统的停顿的时间会更长

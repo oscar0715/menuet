@@ -11,84 +11,7 @@ layout: post
 
 ***
 
-<br>
-
-## CMU 15650 Algorithm
-算是复习总结吧
-
-| Content                                                                  |   
-| -------------------------------------------------------------------------| 
-| **<a href="/algorithm/cmu-15650/algorithm-15650-mst">1 Minimun Spanning Tree</a>** |
-| **<a href="/algorithm/cmu-15650/algorithm-15650-asymptotic">2 Asymptotic Analysis</a>**|                                                
-| **<a href="/algorithm/cmu-15650/algorithm-15650-bfs-dfs">3 Graph: BFS/DFS</a>**    |
-| **<a href="/algorithm/cmu-15650/algorithm-15650-dijkstra">4 Dijkstra</a>**        |
-| **<a href="/algorithm/cmu-15650/algorithm-15650-aster">5 A star algorithm</a>**    |
-| **<a href="/algorithm/cmu-15650/algorithm-15650-bellman-ford">6 Bellman-Ford</a>** |
-| **<a href="/algorithm/cmu-15650/algorithm-15650-skip-list">7 Skip List</a>**       | 
-| **<a href="/algorithm/cmu-15650/algorithm-15650-splay-tree">8 Splay Tree </a>**    |
-| 接下来都是动态规划的部分了                                                    | 
-| **<a href="/algorithm/cmu-15650/algorithm-15650-subset-sum">9 Subset Sum </a>**    |
-| **<a href="/algorithm/cmu-15650/algorithm-15650-segemented-least-squre">10 Segemented Least Squre</a>**                                                          |
-| **<a href="/algorithm/cmu-15650/algorithm-15650-matrix-chain-multiplication">11 Matrix Chain Multiplication</a>**                                                 |
-| **<a href="/algorithm/cmu-15650/algorithm-15650-optimal-bst">12 Optimal BST</a>**  |
-| **<a href="/algorithm/cmu-15650/algorithm-15650-rna-folding">13 RNA Folding</a>**  |
-| **<a href="/algorithm/cmu-15650/algorithm-15650-alignment">14 Sequence Alignment</a>** |
-| **<a href="/algorithm/cmu-15650/algorithm-15650-dynamic-summary">Dynamic Programming Summary</a>**                                                              |
-|终于告别动态规划了                                                            |
-| **<a href="/algorithm/cmu-15650/algorithm-15650-network-flows">15 Network Flows</a>** |
-| **<a href="/algorithm/cmu-15650/algorithm-15650-bipartite-matching">16 Bipartite Matching</a>**                                                             |
-| **<a href="/algorithm/cmu-15650/algorithm-15650-image-segmentation">17 Image Segmentation</a>**                                                         |
-| **<a href="/algorithm/cmu-15650/algorithm-15650-max-flow-extensions/">18 Max-Flow Extensions</a>**                                                           |
-| **<a href="/algorithm/cmu-15650/algorithm-15650-linear-programming/">19 Linear Programming</a>**                                                          |
-| **<a href="/algorithm/cmu-15650/algorithm-15650-np/">20 NP Problems</a>**          |
-| **<a href="/algorithm/cmu-15650/algorithm-15650-approximation/">21 Approximation Algorithm </a>**                                                           |
-| **<a href="/algorithm/cmu-15650/algorithm-15650-final-review/">Final Review</a>**  |                                                           
-<br>
-
-***
-
-<br>
-
-## Cracking the Code interview
-| Content                                       |
-| ----------------------------------------      |
-| **<a href="/algorithm/leetcode/Cracking-1-1/">1-1</a>** |             
-| **<a href="/algorithm/leetcode/Cracking-1-2/">1-2</a>** | 
-| **<a href="/algorithm/leetcode/Cracking-1-3/">1-3</a>** |         
-| **<a href="/algorithm/leetcode/Cracking-1-5/">1-5</a>** |       
-| **<a href="/algorithm/leetcode/Cracking-1-6/">1-6</a>** |     
-| **<a href="/algorithm/leetcode/Cracking-1-7/">1-7</a>** | 
-
-<br>
-
-***
-
-<br>
-
-## UCB 61B
-
-| Content                                                | Comment        |
-| -------------------------------------------------------|--------------: |
-| **<a href="/algorithm/ucb61b/lecture22-StacksAndQueues/">Lecture-22</a>**         | Stacks And Queues (Actually, talked about hash function)                  |
-| **<a href="/algorithm/ucb61b/lecture23-TreesAndTraversal/">Lecture-23</a>**       | Trees And Traversal  (generally introduction)                             | 
-| **<a href="/algorithm/ucb61b/lecture24-PriorityQueue/">Lecture-24</a>**           | Priority Queue (Binary heap)                                              | 
-| **<a href="/algorithm/ucb61b/lecture25-BinarySearchTree/">Lecture-25</a>**        | Binary Search Tree                                                        | 
-| **<a href="/algorithm/ucb61b/lecture26-BalancedSearchTree/">Lecture-26</a>**      | Balanced Search Tree  (2,3,4 Tree)                                        | 
-| **<a href="/algorithm/ucb61b/lecture27-Graphs/">Lecture-27</a>**      | Graph     | 
-| **<a href="/algorithm/ucb61b/lecture28-WeightedGraphs/">Lecture-28</a>**          | Weighted Graphs                                                           | 
-| **<a href="/algorithm/ucb61b/lecture29-SortingI/">Lecture-29</a>**                | Sorting 1 : insert, select, heap, merge                                   | 
-| **<a href="/algorithm/ucb61b/lecture30-SortingII/">Lecture-30</a>**  | Sorting 2  | 
-| **<a href="/algorithm/ucb61b/lecture31-DisjointSets/">Lecture-31</a>**            | Disjoint Sets                                                             | 
-| **<a href="/algorithm/ucb61b/lecture32-SortingIII/">Lecture-32</a>** | Sorting 3  | 
-| **<a href="/algorithm/ucb61b/lecture33-SortingV/">Lecture-33</a>**   | Sorting 5  | 
-| **<a href="/algorithm/ucb61b/lecture34-SplayTrees/">Lecture-34</a>** | Splay Trees| 
-
-<br>
-
-***
-
-<br>
-## Leetcode
+# Leetcode
 
 | Content                                                | Comment        |
 | -------------------------------------------------------|--------------: |
@@ -320,6 +243,26 @@ layout: post
 <br>
 
 ***
+
+
+<br>
+
+
+## Cracking the Code interview
+| Content                                       |
+| ----------------------------------------      |
+| **<a href="/algorithm/leetcode/Cracking-1-1/">1-1</a>** |             
+| **<a href="/algorithm/leetcode/Cracking-1-2/">1-2</a>** | 
+| **<a href="/algorithm/leetcode/Cracking-1-3/">1-3</a>** |         
+| **<a href="/algorithm/leetcode/Cracking-1-5/">1-5</a>** |       
+| **<a href="/algorithm/leetcode/Cracking-1-6/">1-6</a>** |     
+| **<a href="/algorithm/leetcode/Cracking-1-7/">1-7</a>** | 
+
+<br>
+
+***
+
+<br>
 
 
 
