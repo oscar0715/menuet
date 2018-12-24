@@ -519,6 +519,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "source/art/index.md",
+			"settings":
+			{
+				"buffer_size": 3708,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/_posts/art/book/spiritualhome/20181213-golden-age.md",
+			"settings":
+			{
+				"buffer_size": 2421,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -575,7 +593,7 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 269.0,
+		"height": 239.0,
 		"last_filter": "reload",
 		"selected_items":
 		[
@@ -713,34 +731,57 @@
 		"/Users/oscar/Documents/menuet/source/_posts",
 		"/Users/oscar/Documents/menuet/source/_posts/art",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book",
-		"/Users/oscar/Documents/menuet/source/_posts/art/life",
-		"/Users/oscar/Documents/menuet/source/_posts/art/movie"
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/spiritualhome",
+		"/Users/oscar/Documents/menuet/source/art"
 	],
 	"file_history":
 	[
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/book-liuliangcheng-yigerendecunzhuang.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/spiritualhome/20181209-about-interest.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/diary/【随笔目录】我的精神家园.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/diary/hangzhou/20181206-diary-settled-heart.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/diary/hangzhou/20181209-diary-.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/diary/hangzhou/20181209-diary-settled-heart.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/diary/hangzhou/20181120-diary-interview.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/diary/hangzhou/diary-interview.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/swordsman/book-the-legend-of-the-condor-heroes.md",
+		"/Users/oscar/Documents/menuet/source/_posts/algorithm/recommendation/recommend-notes.md",
+		"/Users/oscar/Documents/menuet/source/_posts/algorithm/leetcode/Leetcode-326.md",
+		"/Users/oscar/Documents/menuet/themes/next/.gitignore",
+		"/Users/oscar/Documents/menuet/.gitignore",
+		"/Users/oscar/Documents/menuet/source/_posts/art/diary/步履不停/diary-interview.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/book-xuguixiang-lishidetiankong.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/My-Movie-List.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/My-Book-List.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/movie/movie-coach-carter-2005.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/书评-徐贵祥 -历史的天空.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/diary/步履不停/【随笔】一路逆风.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/diary/步履不停/【diary】interview.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/diary/步履不停/【随笔】一路逆风 copy.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/book-the-elements-of-user-experience.md",
+		"/Users/oscar/Documents/menuet/source/_posts/technology/distribute-system/0-rpc-intro.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/书摘-不能承受的生命之轻.md",
+		"/Users/oscar/Documents/menuet/source/algorithm/index.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/spiritualhome/silent-majority-review.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/spiritualhome/silent-majority.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/life/How_Bad_Do_You_Want_It.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/book-the-willpower-instinct.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/book-tencent-product-basis.md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/ios/swift-guide-tour.md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/java/Java8-functional-programming .md",
-		"/Users/oscar/Documents/menuet/source/_posts/art/book/书评-徐贵祥 -历史的天空.md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/java/web-xml-in-a-Web-Project.md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/general-development/Head-First-Design-Pattern.md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/java/effective-java-third-edition.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/书评-刘桂香.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/movie/film-let-the-bullets-fly-2010.md",
 		"/Users/oscar/Documents/menuet/source/_posts/algorithm/recommendation/CF-for-implicit-dataset.md",
-		"/Users/oscar/Documents/menuet/source/_posts/algorithm/recommendation/recommend-notes.md",
 		"/Users/oscar/Documents/menuet/source/_posts/algorithm/recommendation/collaboration-filtering.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/movie/movie-talk-2017.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/movie/film-hidden-man-2018.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/movie/film-hidden-man-2018 copy.md",
 		"/Users/oscar/Documents/menuet/source/_posts/algorithm/recommendation/# 本周任务",
-		"/Users/oscar/Documents/menuet/source/_posts/art/book/spiritualhome/silent-majority.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/movie/笔记-电影-阿飞正传.md",
 		"/Users/oscar/Documents/menuet/source/art/index.md",
-		"/Users/oscar/Documents/menuet/source/_posts/art/diary/【随笔目录】我的精神家园.md",
-		"/Users/oscar/Documents/menuet/source/_posts/art/My-Book-List.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/书摘-王小波-寻找无双.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/书摘-小王子.md",
 		"/Users/oscar/Downloads/类目分数的分布（dd,ht,hyq）.txt",
@@ -748,13 +789,11 @@
 		"/usr/local/Cellar/tomcat/8.5.15/libexec/bin/catalina.sh",
 		"/Users/oscar/Documents/menuet/source/_posts/art/diary/步履不停/【随笔】步履不停.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/diary/步履不停/【随笔】我们的黄金时代.md",
-		"/Users/oscar/Documents/menuet/source/_posts/art/diary/步履不停/【随笔】一路逆风.md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/java/Spring-in-Action-笔记-一.md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/java/new-spring-project.md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/tool/Hexo问题总结.md",
 		"/Users/oscar/Documents/logs.txt",
 		"/Users/oscar/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
-		"/Users/oscar/Documents/menuet/source/algorithm/index.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/书摘-徐贲-人以什么理由来记忆.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/spiritualhome/沉默的大多数.md",
 		"/Users/oscar/Documents/menuet/_config.yml",
@@ -789,7 +828,6 @@
 		"/Users/oscar/Documents/menuet/source/_posts/diary/步履不停/【随笔】牛犊初生.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/？",
 		"/Users/oscar/Documents/menuet/source/_posts/art/书摘-病隙碎笔.md",
-		"/Users/oscar/Documents/menuet/source/_posts/art/My-Movie-List.md",
 		"/Users/oscar/Documents/menuet/source/_posts/philosophy/Coursera-Philosophy-and-Science.md",
 		"/Users/oscar/Documents/menuet/source/_posts/algorithm/algorithm-the-algorithm-design-manual.md",
 		"/Users/oscar/Documents/menuet/source/_posts/algorithm/algorithm-15650-subset-sum.md",
@@ -825,31 +863,11 @@
 		"/Users/oscar/Documents/menuet/scaffolds/post.md",
 		"/Users/oscar/Documents/menuet/scaffolds/draft.md",
 		"/Users/oscar/Documents/menuet/source/_posts/tool/Hexo问题总结.md",
-		"/Users/oscar/Documents/周报/周报/周报-倪嘉铭-20170814.md",
-		"/Users/oscar/Documents/周报/周报/周报-倪嘉铭-20170807.md",
-		"/Users/oscar/Documents/周报/周报/周报-倪嘉铭-20170731.md",
-		"/Users/oscar/Documents/周报/周报/周报-倪嘉铭-20170724.md",
-		"/Users/oscar/Documents/周报/周报/周报-倪嘉铭-20170717.md",
-		"/Users/oscar/Documents/周报/周报/周报-倪嘉铭-20170710.md",
-		"/Users/oscar/Documents/周报/周报/周报-倪嘉铭-20170703.md",
-		"/usr/local/Cellar/maven/3.5.0/libexec/conf/settings.xml",
-		"/Users/oscar/Documents/Hexo/source/_drafts/混乱人生中的灯塔.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/general-development/head-first-design-pattern.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/art/句子迷.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/art/书摘-病隙碎笔.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/art/My-Movie-List.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/diary/solar-term-us/【随笔】小满.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/philosophy/Coursera-Introduction-to-Philosophy.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/diary/solar-term-us/【随笔】大雪.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/art/My-Book-List.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/diary/【随笔】如烟.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/diary/solar-term-us/【随笔】立春.md",
-		"/Users/oscar/Documents/Hexo/source/_posts/philosophy/：",
-		"/Users/oscar/Documents/Hexo/source/_posts/diary/solar-term-us/【随笔】立夏.md"
+		"/Users/oscar/Documents/周报/周报/周报-倪嘉铭-20170814.md"
 	],
 	"find":
 	{
-		"height": 36.0
+		"height": 49.0
 	},
 	"find_in_files":
 	{
@@ -867,6 +885,20 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"就如山野上的风。",
+			"326",
+			"无忧无虑",
+			"不相关",
+			"但对于性情纯良的郭靖而言，武功所及之处都是打打杀杀，",
+			"步履不停",
+			"lecture",
+			"/ucb61b/",
+			"leetcode/algorithm/",
+			" ",
+			"remove",
+			"set",
+			"幽默",
+			"其实",
 			"石云彪的风格和梁庭辉迥然相异，我想这是源于两支部队的实际情况的不同。国民党军队是正规军，需要的是石云彪这样的正统严格的将领来指挥军队。而八路军更多的是游记部队，需要梁庭辉这样灵活亲民的指挥员来培养部队。",
 			"就连陈墨涵y",
 			"无知",
@@ -980,21 +1012,7 @@
 			"</a>**",
 			"/diary/",
 			"473",
-			"485",
-			"486",
-			"473",
-			"事务",
-			"事物",
-			"hba",
-			"复制算法",
-			"{% codeblock lang:java  %}",
-			"{% endcodeblock %}",
-			"{% codeblock lang:xml  %}",
-			"##",
-			"regionserver",
-			".META.",
-			"-ROOT-",
-			"version"
+			"485"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1021,18 +1039,330 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "source/art/index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								489,
+								489
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										505,
+										507
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/dot.png",
+										"region.yellowish brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										425,
+										427
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/_posts/art/book/spiritualhome/20181213-golden-age.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2416,
+								2416
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2946.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 49.0
+		"height": 37.0
 	},
 	"input":
 	{
-		"height": 48.0
+		"height": 49.0
 	},
 	"layout":
 	{
@@ -1069,7 +1399,7 @@
 	"project": "",
 	"replace":
 	{
-		"height": 68.0
+		"height": 70.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1119,7 +1449,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 386.0,
+	"side_bar_width": 144.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
