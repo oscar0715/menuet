@@ -14,7 +14,7 @@ categories:
 # I like this
 <br>
 
-![I like this](http://ogy8rvzbs.bkt.clouddn.com/I_like_this.gif "I like this")
+![I like this](https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/I_like_this.gif "I like this")
 
 <br>
 

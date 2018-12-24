@@ -31,21 +31,11 @@ Java Web
 
 | 文章           | 介绍           | 
 | ------------- | -------------:| 
-| **<a href="/technology/java/搭框架SpringMVC-Mybatis-Dubbo-MySQL/">搭框架SpringMVC+Mybatis+Dubbo+MySQL+Maven </a>** | 终于可以搭框架了| 
 | **<a href="/technology/java/web-xml-in-a-Web-Project/">web.xml_in_a_Web_Project </a>** | web.xml文件的详细解析| 
-|**<a href="/technology/java/Spring-基于注解的controller/">Spring-基于注解的controller </a>**|Spring可以自动的将通过http传过来的参数映射到对应的类中去。|
 
 
 
-### Web basic
 
-| Web basic      | 
-| :------------- |
-| **<a href="/technology/webapplication/introduction_to_html5/">Introduction to HTML5</a>** |
-| **<a href="/technology/webapplication/introduction_to_CSS/">Introduction to CSS</a>** | 
-| **<a href="/technology/webapplication/codecademy_js/">Introduction to JavaScript</a>**| 
-| **<a href="/technology/webapplication/codecademy_jquery/">Introduction to jQuery</a>** |
-| **<a href="/technology/webapplication/materialize-css/">Introduction to Materialize CSS</a>** |
 
 ### Python Django
 
