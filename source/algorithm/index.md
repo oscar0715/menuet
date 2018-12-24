@@ -234,7 +234,7 @@ layout: post
 
 
 
-## HackerRank
+# HackerRank
 | Content                                 | Comment         |
 | ----------------------------------------|--------------:  |
 | **<a href="/algorithm/leetcode/HackerRank-InClass3/">InClass3</a>** |Sort the key and value of a Map                             |
@@ -248,7 +248,7 @@ layout: post
 <br>
 
 
-## Cracking the Code interview
+# Cracking the Code interview
 | Content                                       |
 | ----------------------------------------      |
 | **<a href="/algorithm/leetcode/Cracking-1-1/">1-1</a>** |             

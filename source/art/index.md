@@ -19,13 +19,13 @@ layout: post
 
 | 书摘/书评           | 
 | ------------------ |
-| **<a href="/art/book/book-liuliangcheng-yigerendecunzhuang/">书评 《一个人的村庄》 刘亮程</a>** |
+| **<a href="/art/book/spiritualhome/20181213-golden-age/">【王小波系列】《黄金时代》爱情与幻灭 </a>** |
 | **<a href="/art/book/spiritualhome/20181209-about-interest/">【王小波系列】总有些人会渴望有趣 </a>** |
 | **<a href="/art/book/swordsman/book-the-legend-of-the-condor-heroes/">书评 《射雕英雄传》金庸 </a>** |
 | **<a href="/art/book/book-the-willpower-instinct/">书评 《自控力》凯利·麦格尼格尔 </a>** |
 | **<a href="/art/book/book-xuguixiang-lishidetiankong/">书评 《历史的天空》徐贵祥 </a>** |
-| **<a href="/art/book/spiritualhome/silent-majority-review/">【王小波系列】书评 《沉默的大多数》王小波 </a>** |
-| **<a href="/art/book/spiritualhome/silent-majority/">【王小波系列】笔记 《沉默的大多数》王小波 </a>** |
+| **<a href="/art/book/spiritualhome/silent-majority-review/">【王小波系列】书评 《沉默的大多数》</a>** |
+| **<a href="/art/book/spiritualhome/silent-majority/">【王小波系列】笔记 《沉默的大多数》</a>** |
 | **<a href="/art/book/书摘-小王子/">书摘 《小王子》圣埃克苏佩里 </a>**  |
 | **<a href="/art/book/书摘-原研哉-设计中的设计/">书摘 《设计中的设计》原研哉 </a>** |
 | **<a href="/art/book/书评-吴晓波-腾讯传/">书摘 《腾讯传》吴晓波 </a>**  |
@@ -44,6 +44,7 @@ layout: post
 | **<a href="/art/book/书摘-徐贲-人以什么理由来记忆/">书摘 《人以什么理由来记忆》徐贲</a>** |
 | **<a href="/art/book/书评-严歌苓-陆犯焉识/">书评 《陆犯焉识》严歌苓 </a>** | 
 | **<a href="/art/book/书摘-不能承受的生命之轻/">书摘 《不能承受的生命之轻》米兰·昆德拉 </a>**  |
+| **<a href="/art/book/book-liuliangcheng-yigerendecunzhuang/">书评 《一个人的村庄》 刘亮程</a>** |
 | **<a href="/art/book/笔记-阿越-新宋/">笔记 《新宋》阿越 </a>**  |
 
 | 影评           | 
