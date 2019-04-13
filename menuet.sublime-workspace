@@ -523,16 +523,25 @@
 			"file": "source/art/index.md",
 			"settings":
 			{
-				"buffer_size": 3708,
+				"buffer_size": 3202,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "source/_posts/art/book/spiritualhome/20181213-golden-age.md",
+			"file": "source/_posts/art/movie/笔记-电影-阿飞正传.md",
 			"settings":
 			{
-				"buffer_size": 2421,
+				"buffer_size": 2276,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/_posts/art/movie/document-fire-thief.md",
+			"settings":
+			{
+				"buffer_size": 2605,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -730,12 +739,36 @@
 		"/Users/oscar/Documents/menuet/source",
 		"/Users/oscar/Documents/menuet/source/_posts",
 		"/Users/oscar/Documents/menuet/source/_posts/art",
-		"/Users/oscar/Documents/menuet/source/_posts/art/book",
-		"/Users/oscar/Documents/menuet/source/_posts/art/book/spiritualhome",
-		"/Users/oscar/Documents/menuet/source/art"
+		"/Users/oscar/Documents/menuet/source/_posts/art/movie",
+		"/Users/oscar/Documents/menuet/source/algorithm",
+		"/Users/oscar/Documents/menuet/source/technology"
 	],
 	"file_history":
 	[
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/spiritualhome/20181213-golden-age.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/diary/hangzhou/20190103-diary-gaolouwangduan.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/book/书摘-王小波-寻找无双.md",
+		"/Users/oscar/Movies/untitled folder/18769568/taoli.txt",
+		"/Users/oscar/Documents/menuet/source/algorithm/index.md",
+		"/Users/oscar/Documents/menuet/source/_posts/technology/java/Java-日志系统.md",
+		"/Users/oscar/Documents/menuet/source/technology/index.md",
+		"/Users/oscar/Documents/menuet/source/_posts/technology/java/Java-logback.md",
+		"/Users/oscar/Documents/menuet/source/_posts/technology/general-development/Head-First-Design-Pattern.md",
+		"/Users/oscar/Documents/menuet/source/_posts/algorithm/cmu-15650/algorithm-15650-approximation.md",
+		"/Users/oscar/Documents/menuet/source/_posts/technology/distribute-system/zookeeper-introduction.md",
+		"/Users/oscar/Documents/menuet/source/_posts/technology/java/Java内存可见性【Java系列笔记】.md",
+		"/Users/oscar/Documents/menuet/source/_posts/technology/java/Java垃圾回收机制【Java系列笔记】.md",
+		"/Users/oscar/Documents/menuet/source/_posts/technology/java/Java自动内存管理【Java系列笔记】.md",
+		"/Users/oscar/Documents/menuet/source/_posts/technology/django/django-ajax-address.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/movie/笔记-纪录片-河西走廊.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/life/How_Bad_Do_You_Want_It.md",
+		"/Users/oscar/Documents/menuet/source/_posts/technology/java/Spring-in-Action-笔记-一.md",
+		"/Users/oscar/Documents/menuet/_config.yml",
+		"/Users/oscar/Documents/menuet/themes/next/_config.yml",
+		"/Users/oscar/Documents/menuet/source/_posts/art/句子迷.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/design/设计素材慢慢累积.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/One_Way_Street摘记.md",
+		"/Users/oscar/Documents/menuet/source/_posts/art/cbnweekly/第一财经周刊-摘记.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/book-liuliangcheng-yigerendecunzhuang.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/spiritualhome/20181209-about-interest.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/diary/【随笔目录】我的精神家园.md",
@@ -761,16 +794,13 @@
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/book-the-elements-of-user-experience.md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/distribute-system/0-rpc-intro.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/书摘-不能承受的生命之轻.md",
-		"/Users/oscar/Documents/menuet/source/algorithm/index.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/spiritualhome/silent-majority-review.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/spiritualhome/silent-majority.md",
-		"/Users/oscar/Documents/menuet/source/_posts/art/life/How_Bad_Do_You_Want_It.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/book-the-willpower-instinct.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/book-tencent-product-basis.md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/ios/swift-guide-tour.md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/java/Java8-functional-programming .md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/java/web-xml-in-a-Web-Project.md",
-		"/Users/oscar/Documents/menuet/source/_posts/technology/general-development/Head-First-Design-Pattern.md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/java/effective-java-third-edition.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/书评-刘桂香.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/movie/film-let-the-bullets-fly-2010.md",
@@ -782,27 +812,21 @@
 		"/Users/oscar/Documents/menuet/source/_posts/algorithm/recommendation/# 本周任务",
 		"/Users/oscar/Documents/menuet/source/_posts/art/movie/笔记-电影-阿飞正传.md",
 		"/Users/oscar/Documents/menuet/source/art/index.md",
-		"/Users/oscar/Documents/menuet/source/_posts/art/book/书摘-王小波-寻找无双.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/书摘-小王子.md",
 		"/Users/oscar/Downloads/类目分数的分布（dd,ht,hyq）.txt",
 		"/Users/oscar/Documents/menuet/source/_posts/art/movie/笔记-电视剧-帝术.md",
 		"/usr/local/Cellar/tomcat/8.5.15/libexec/bin/catalina.sh",
 		"/Users/oscar/Documents/menuet/source/_posts/art/diary/步履不停/【随笔】步履不停.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/diary/步履不停/【随笔】我们的黄金时代.md",
-		"/Users/oscar/Documents/menuet/source/_posts/technology/java/Spring-in-Action-笔记-一.md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/java/new-spring-project.md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/tool/Hexo问题总结.md",
 		"/Users/oscar/Documents/logs.txt",
 		"/Users/oscar/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/书摘-徐贲-人以什么理由来记忆.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/spiritualhome/沉默的大多数.md",
-		"/Users/oscar/Documents/menuet/_config.yml",
-		"/Users/oscar/Documents/menuet/themes/next/_config.yml",
 		"/Users/oscar/Documents/menuet/source/about/index.md",
-		"/Users/oscar/Documents/menuet/source/_posts/art/movie/笔记-纪录片-河西走廊.md",
 		"/Users/oscar/Documents/menuet/source/_posts/art/book/书摘-牧羊少年的奇幻之旅.md",
 		"/Users/oscar/Documents/menuet/source/_posts/technology/webapplication/codecademy_jquery.md",
-		"/Users/oscar/Documents/menuet/source/technology/index.md",
 		"/Users/oscar/Downloads/【btrenren.com】三块广告牌.Three.Billboards.Outside.Ebbing.Missouri.2017.BD1080P.x264.中英双字幕.eng.chs.mp4.torrent",
 		"/Users/oscar/Documents/menuet/source/_posts/general-development/Head-First-Design-Pattern.md",
 		"/Users/oscar/Documents/menuet/source/_posts/webapplication/codecademy_js.md",
@@ -848,22 +872,7 @@
 		"/Users/oscar/Documents/menuet/source/_posts/algorithm/algorithm-15650-dynamic-summary.md",
 		"/Users/oscar/Documents/menuet/source/_posts/algorithm/algorithm-15650-dijkstra.md",
 		"/Users/oscar/Documents/menuet/source/_posts/algorithm/algorithm-15650-bipartite-matching.md",
-		"/Users/oscar/Documents/menuet/source/_posts/algorithm/algorithm-15650-bfs-dfs.md",
-		"/Users/oscar/Documents/menuet/source/_posts/algorithm/algorithm-15650-asymptotic.md",
-		"/Users/oscar/Documents/menuet/source/_posts/algorithm/algorithm-15650-aster.md",
-		"/Users/oscar/Documents/menuet/source/_posts/algorithm/algorithm-15650-approximation.md",
-		"/Users/oscar/Documents/menuet/source/_posts/algorithm/algorithm-15650-alignment.md",
-		"/Users/oscar/Documents/menuet/source/_posts/art/书摘-张爱玲-小团圆.md",
-		"/Users/oscar/Documents/menuet/source/_posts/diary/步履不停/【随笔】步履不停.md",
-		"/Users/oscar/Documents/menuet/source/art/untitled",
-		"/Users/oscar/Documents/menuet/source/_posts/diary/【碎碎念】.md",
-		"/Users/oscar/Documents/menuet/source/_posts/draft/简历回顾.md",
-		"/Users/oscar/Documents/menuet/source/很高兴遇见你/index.md",
-		"/Users/oscar/Documents/menuet/scaffolds/page.md",
-		"/Users/oscar/Documents/menuet/scaffolds/post.md",
-		"/Users/oscar/Documents/menuet/scaffolds/draft.md",
-		"/Users/oscar/Documents/menuet/source/_posts/tool/Hexo问题总结.md",
-		"/Users/oscar/Documents/周报/周报/周报-倪嘉铭-20170814.md"
+		"/Users/oscar/Documents/menuet/source/_posts/algorithm/algorithm-15650-bfs-dfs.md"
 	],
 	"find":
 	{
@@ -874,6 +883,10 @@
 		"height": 128.0,
 		"where_history":
 		[
+			"/Users/oscar/Documents/menuet/source/_posts/technology/general-development",
+			"/Users/oscar/Documents/menuet/source/_posts/",
+			"/Users/oscar/Documents/menuet/source/_posts/art/movie",
+			"/Users/oscar/Documents/menuet/",
 			"<open files>",
 			"",
 			"/Users/oscar/Documents/menuet/source/_posts/algorithm",
@@ -885,6 +898,21 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"``` java",
+			"java",
+			"<br>\n***\n<br>",
+			"<br>\n***",
+			"<br>",
+			"http://p0h985ofr.bkt.clouddn.com/design/pattern/",
+			"http://ogy9ohfjc.bkt.clouddn.com/neicunguanli/",
+			"http://ogut1ij3z.bkt.clouddn.com/hexizoulang/.*/pic/",
+			"http://ogut1ij3z.bkt.clouddn.com/hexizoulang/*/pic/",
+			"a20e897ajw1dylpoqq3rxj.jpg",
+			"image/jpg/a20e897ajw1dylpoqq3rxj.jpg",
+			"\t\nucb61b/lecture",
+			"ucb61b/lecture",
+			"\tucb61b/lecture",
+			"\t\nucb61b/lecture",
 			"就如山野上的风。",
 			"326",
 			"无忧无虑",
@@ -997,22 +1025,7 @@
 			"duo",
 			"清明",
 			"【随笔】清明",
-			"<logger>",
-			"<timestamp>",
-			"##",
-			"Finalize()",
-			"131",
-			"##",
-			"Against()",
-			"Match()",
-			"MyISAM",
-			"UNION",
-			"537",
-			"532",
-			"</a>**",
-			"/diary/",
-			"473",
-			"485"
+			"<logger>"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1020,6 +1033,10 @@
 		"regex": true,
 		"replace_history":
 		[
+			"``` Java",
+			"https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/design-pattern/",
+			"https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/java/",
+			"https://menuet-1258369060.cos.ap-shanghai.myqcloud.com/hexizoulang/",
 			"装饰器",
 			"next",
 			"StringBuffer"
@@ -1039,7 +1056,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -1048,15 +1065,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3708,
+						"buffer_size": 3202,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								489,
-								489
+								217,
+								217
 							]
 						],
 						"settings":
@@ -1067,25 +1084,10 @@
 							{
 								"close":
 								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
 									"1":
 									[
-										505,
-										507
+										1018,
+										1020
 									]
 								},
 								"icon":
@@ -1100,26 +1102,41 @@
 								{
 									"1":
 									[
-										425,
-										427
+										943,
+										945
 									]
 								},
 								"unmatched":
 								{
 								}
 							},
-							"bracket_highlighter.regions":
+							"bracket_highlighter.clone_regions":
 							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -1130,68 +1147,126 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"is_init_dirty_state": false,
 							"origin_encoding": "UTF-8",
 							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 5.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "source/_posts/art/book/spiritualhome/20181213-golden-age.md",
+					"file": "source/_posts/art/movie/笔记-电影-阿飞正传.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2421,
+						"buffer_size": 2276,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2416,
-								2416
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1215,61 +1290,61 @@
 							},
 							"bracket_highlighter.clone_regions":
 							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"bracket_highlighter.locations":
 							{
@@ -1288,66 +1363,242 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2946.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/_posts/art/movie/document-fire-thief.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								379,
+								379
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1399,7 +1650,7 @@
 	"project": "",
 	"replace":
 	{
-		"height": 70.0
+		"height": 90.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1434,7 +1685,7 @@
 	},
 	"select_symbol":
 	{
-		"height": 392.0,
+		"height": 389.0,
 		"last_filter": "",
 		"selected_items":
 		[
@@ -1449,7 +1700,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 144.0,
+	"side_bar_width": 320.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

@@ -19,6 +19,9 @@ layout: post
 
 | 书摘/书评           | 
 | ------------------ |
+| **<a href="/art/book/book-intelligent-business-2018-part1/">读书笔记 《智能商业》（一） </a>** |
+| **<a href="/art/book/book-intelligent-business-2018-part2/">读书笔记 《智能商业》（二） </a>** |
+| **<a href="/art/book/book-the-paypal-wars-2015/">读书笔记 《支付战争》&《造梦者》 </a>** |
 | **<a href="/art/book/spiritualhome/20181213-golden-age/">【王小波系列】《黄金时代》爱情与幻灭 </a>** |
 | **<a href="/art/book/spiritualhome/20181209-about-interest/">【王小波系列】总有些人会渴望有趣 </a>** |
 | **<a href="/art/book/swordsman/book-the-legend-of-the-condor-heroes/">书评 《射雕英雄传》金庸 </a>** |
@@ -49,7 +52,10 @@ layout: post
 
 | 影评           | 
 | ------------- |
-| **<a href="/art/movie/movie-coach-carter-2005//">影评 《卡特教练》</a>**    |
+| **<a href="/art/movie/movie-contact-1997/">影评 《超时空接触》</a>**|
+| **<a href="/art/movie/document-fire-thief-2013/">影评 《盗火者》</a>**|
+| **<a href="/art/movie/document-yaoming-change-2017/">影评 《筑梦者·姚明》</a>**|
+| **<a href="/art/movie/movie-coach-carter-2005/">影评 《卡特教练》</a>**|
 | **<a href="/art/movie/movie-talk-2017/">笔记 《表演者言》</a>**    |
 | **<a href="/art/movie/笔记-电影-阿飞正传/">影评 《阿飞正传》 王家卫</a>**    |
 | **<a href="/art/movie/笔记-纪录片-河西走廊/">笔记 《河西走廊》</a>**    |
