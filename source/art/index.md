@@ -19,6 +19,7 @@ layout: post
 
 | 书摘/书评           | 
 | ------------------ |
+| **<a href="/art/book/book-three-body-III/">读后感 《三体III-死神永生》 </a>** |
 | **<a href="/art/book/book-three-body-II/">读后感 《三体II-黑暗森林》 </a>** |
 | **<a href="/art/book/book-intelligent-business-2018-part1/">读书笔记 《智能商业》（一） </a>** |
 | **<a href="/art/book/book-intelligent-business-2018-part2/">读书笔记 《智能商业》（二） </a>** |
