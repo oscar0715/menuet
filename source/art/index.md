@@ -65,19 +65,22 @@ layout: post
 | **<a href="/art/movie/笔记-电视剧-帝术/">剧评 《帝术——从“康熙王朝”谈起》</a>** | 
 | **<a href="/art/movie/笔记-纪录片-我在故宫修文物/">笔记 《我在故宫修文物》</a>**| 
 
+
+<br>
+
+| 岁月           | 说明           | 
+| ------------- | -------------:| 
+| **<a href="/art/life/How_Bad_Do_You_Want_It/">How_Bad_Do_You_Want_It</a>**| 低潮期的时候就拿出来看看|
+| **<a href="/art/life/句子迷/">句子迷</a>**              | 不喧哗 自有声       |
+| **<a href="/art/life/love-song/">我爱的歌词啊</a>**              | 最肯忘却古人诗 最不屑一顾是相思       |
+
+
 <br> 
 
 | 哲学涉猎          | 
 | ------------- | 
 | **<a href="/art/philosophy/笔记-正义-哈佛大学/">笔记 《正义》 哈佛大学 桑德尔</a>** |
 | **<a href="/art/philosophy/Coursera-Introduction-to-Philosophy/">笔记 爱丁堡大学公开课 《Introduction-to-Philosophy》</a>** |
-
-<br>   
-
-| 岁月           | 说明           | 
-| ------------- | -------------:| 
-| **<a href="/art/life/How_Bad_Do_You_Want_It/">How_Bad_Do_You_Want_It</a>**| 低潮期的时候就拿出来看看|
-| **<a href="/art/句子迷/">句子迷</a>**              | 不喧哗 自有声       |
 
 
 
